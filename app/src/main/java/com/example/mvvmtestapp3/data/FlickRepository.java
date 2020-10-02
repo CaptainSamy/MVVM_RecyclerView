@@ -1,9 +1,12 @@
-package com.example.mvvmtestapp3.model;
+package com.example.mvvmtestapp3.data;
 
 import androidx.lifecycle.MutableLiveData;
 
 import com.example.mvvmtestapp3.data.FlickBuilder;
 import com.example.mvvmtestapp3.data.FlickService;
+import com.example.mvvmtestapp3.model.FlickrPhoto;
+import com.example.mvvmtestapp3.model.Photo;
+import com.example.mvvmtestapp3.model.Photos;
 
 import java.util.ArrayList;
 import java.util.List;
